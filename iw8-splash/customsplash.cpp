@@ -1,6 +1,6 @@
 // IW8-Splas Screens
-// this code is ment for people who want to make custom splash screens for there Iw8 project this method works across other games to like
-// VG,MWIII, (Maybe) MWII and 
+// this code is ment for people who want to make custom splash screens for there Iw8 project this method works across other games too like
+// VG,MWIII, (Maybe) MWII 
 
 #include "common.hpp"
 #include "hooks.h"
